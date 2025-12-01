@@ -1,0 +1,174 @@
+{
+  "Rodion_Raskolnikov": {
+    "aliases": [
+      "Raskolnikov",
+      "Rodion Romanovich Raskolnikov",
+      "Rodion Romanovich",
+      "Rodion",
+      "Rodya",
+      "Rodka",
+      "Rodenka",
+      "the student",
+      "the young man",
+      "the lodger",
+      "the murderer",
+      "the author of the article",
+      "the former student"
+    ],
+    "gender": "M"
+  },
+  "Sonia_Marmeladov": {
+    "aliases": [
+      "Sonia",
+      "Sonya",
+      "Sofya Semyonovna Marmeladov",
+      "Sofya Semyonovna",
+      "Marmeladova",
+      "Sofya",
+      "Sonechka",
+      "Sonsyushka",
+      "Marmeladov's daughter",
+      "Katerina Ivanovna's stepdaughter"
+    ],
+    "gender": "F"
+  },
+  "Avdotya_Raskolnikov": {
+    "aliases": [
+      "Dunya",
+      "Dounia",
+      "Avdotya Romanovna Raskolnikov",
+      "Avdotya Romanovna",
+      "Raskolnikova",
+      "Dunechka",
+      "Dunyechka",
+      "Rodion's sister",
+      "Raskolnikov's sister",
+      "Avdotya"
+    ],
+    "gender": "F"
+  },
+  "Arkady_Svidrigailov": {
+    "aliases": [
+      "Svidrigailov",
+      "Arkady Ivanovich Svidrigailov",
+      "Arkady Ivanovich",
+      "Arkady",
+      "the landowner"
+    ],
+    "gender": "M"
+  },
+  "Dmitri_Razumikhin": {
+    "aliases": [
+      "Razumikhin",
+      "Dmitri Prokofych Razumikhin",
+      "Dmitri Prokofych",
+      "Prokofych",
+      "Vrazumikhin",
+      "Dmitri",
+      "Mitka",
+      "Raskolnikov's friend"
+    ],
+    "gender": "M"
+  },
+  "Pyotr_Luzhin": {
+    "aliases": [
+      "Luzhin",
+      "Pyotr Petrovich Luzhin",
+      "Pyotr Petrovich",
+      "Dunya's fiancé",
+      "Avdotya Romanovna's fiancé",
+      "the lawyer",
+      "the suitor"
+    ],
+    "gender": "M"
+  },
+  "Porfiry_Petrovich": {
+    "aliases": [
+      "Porfiry Petrovich",
+      "Porfiry",
+      "the examining magistrate",
+      "the investigator",
+      "the head of the investigation department",
+      "the magistrate"
+    ],
+    "gender": "M"
+  },
+  "Semyon_Marmeladov": {
+    "aliases": [
+      "Marmeladov",
+      "Semyon Zakharovich Marmeladov",
+      "Semyon Zakharovich",
+      "the titular councillor",
+      "the official",
+      "the drunkard"
+    ],
+    "gender": "M"
+  },
+  "Katerina_Ivanovna": {
+    "aliases": [
+      "Katerina Ivanovna",
+      "Marmeladova",
+      "Katerina",
+      "the officer's widow",
+      "the consumptive woman"
+    ],
+    "gender": "F"
+  },
+  "Alyona_Ivanovna": {
+    "aliases": [
+      "Alyona Ivanovna",
+      "Alona Ivanovna",
+      "the old woman",
+      "the pawnbroker",
+      "the money-lender",
+      "the victim",
+      "the old crone"
+    ],
+    "gender": "F"
+  },
+  "Lizaveta_Ivanovna": {
+    "aliases": [
+      "Lizaveta",
+      "Lizaveta Ivanovna",
+      "the pawnbroker's sister",
+      "the old woman's sister"
+    ],
+    "gender": "F"
+  },
+  "Pulcheria_Alexandrovna": {
+    "aliases": [
+      "Pulcheria Alexandrovna",
+      "Pulcheria",
+      "Raskolnikov's mother",
+      "Rodion's mother",
+      "the mother"
+    ],
+    "gender": "F"
+  },
+  "Zossimov": {
+    "aliases": [
+      "Zossimov",
+      "Zosimov",
+      "the doctor"
+    ],
+    "gender": "M"
+  },
+  "Alexander_Zametov": {
+    "aliases": [
+      "Zametov",
+      "Alexander Grigorievich Zametov",
+      "Alexander Grigorievich",
+      "the head clerk",
+      "the police clerk"
+    ],
+    "gender": "M"
+  },
+  "Andrey_Lebezyatnikov": {
+    "aliases": [
+      "Lebezyatnikov",
+      "Andrey Semyonovich Lebezyatnikov",
+      "Andrey Semyonovich"
+    ],
+    "gender": "M"
+  }
+}

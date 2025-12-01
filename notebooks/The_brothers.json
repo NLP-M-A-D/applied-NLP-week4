@@ -1,0 +1,178 @@
+{
+  "Alexei_Karamazov": {
+    "aliases": [
+      "Alyosha",
+      "Alexei Fyodorovich",
+      "Alexey Fyodorovich",
+      "Alexei",
+      "Alexey",
+      "Alyoshka",
+      "Alyoshenka",
+      "Aloska",
+      "the novice",
+      "the angel",
+      "the man of God",
+      "the third son",
+      "the youngest brother",
+      "cherub",
+      "Karamazov"
+    ],
+    "gender": "M"
+  },
+  "Dmitri_Karamazov": {
+    "aliases": [
+      "Dmitri",
+      "Dmitri Fyodorovich",
+      "Mitya",
+      "Mitka",
+      "Mitenka",
+      "Mitri",
+      "the eldest brother",
+      "the first son",
+      "the lieutenant",
+      "the officer",
+      "the prisoner",
+      "Karamazov"
+    ],
+    "gender": "M"
+  },
+  "Ivan_Karamazov": {
+    "aliases": [
+      "Ivan",
+      "Ivan Fyodorovich",
+      "Vanya",
+      "Vanka",
+      "the scholar",
+      "the atheist",
+      "the second son",
+      "the middle brother",
+      "the author of the poem",
+      "Karamazov"
+    ],
+    "gender": "M"
+  },
+  "Fyodor_Pavlovich_Karamazov": {
+    "aliases": [
+      "Fyodor Pavlovich",
+      "Fyodor",
+      "the old man",
+      "the father",
+      "the buffoon",
+      "the landowner",
+      "Aesop",
+      "old Karamazov"
+    ],
+    "gender": "M"
+  },
+  "Pavel_Smerdyakov": {
+    "aliases": [
+      "Smerdyakov",
+      "Pavel Fyodorovich",
+      "Pavel",
+      "the valet",
+      "the cook",
+      "the lackey",
+      "Balaam's ass",
+      "the epileptic"
+    ],
+    "gender": "M"
+  },
+  "Agrafena_Svetlov": {
+    "aliases": [
+      "Grushenka",
+      "Grusha",
+      "Agrafena Alexandrovna",
+      "Agrafena",
+      "Agraphena",
+      "Svetlov",
+      "the seductress",
+      "that woman"
+    ],
+    "gender": "F"
+  },
+  "Katerina_Ivanovna": {
+    "aliases": [
+      "Katerina Ivanovna",
+      "Katerina",
+      "Katya",
+      "Katenka",
+      "Verkhovtsev",
+      "Dmitri's fiancée",
+      "the noblewoman"
+    ],
+    "gender": "F"
+  },
+  "Father_Zosima": {
+    "aliases": [
+      "Zosima",
+      "Zossima",
+      "Father Zosima",
+      "the Elder",
+      "the Starets",
+      "the monk",
+      "Elder Zosima"
+    ],
+    "gender": "M"
+  },
+  "Katerina_Khokhlakov": {
+    "aliases": [
+      "Madame Khokhlakov",
+      "Khokhlakov",
+      "Katerina Osipovna",
+      "Lise's mother",
+      "the lady"
+    ],
+    "gender": "F"
+  },
+  "Lise_Khokhlakov": {
+    "aliases": [
+      "Lise",
+      "Liza",
+      "Lizaveta",
+      "Lise Khokhlakov",
+      "the crippled girl",
+      "the invalid"
+    ],
+    "gender": "F"
+  },
+  "Mikhail_Rakitin": {
+    "aliases": [
+      "Rakitin",
+      "Mikhail",
+      "Misha",
+      "the seminarian"
+    ],
+    "gender": "M"
+  },
+  "Ilyusha_Snegiryov": {
+    "aliases": [
+      "Ilyusha",
+      "Ilyushechka",
+      "Ilyushka",
+      "Snegiryov's son",
+      "the schoolboy"
+    ],
+    "gender": "M"
+  },
+  "Nikolai_Snegiryov": {
+    "aliases": [
+      "Snegiryov",
+      "Captain Snegiryov",
+      "Nikolai Ilyich",
+      "the captain",
+      "the whisk broom",
+      "tow-beard"
+    ],
+    "gender": "M"
+  },
+  "Pyotr_Miusov": {
+    "aliases": [
+      "Miusov",
+      "Pyotr Alexandrovich",
+      "Pyotr Alexandrovich Miusov",
+      "the liberal",
+      "the cousin"
+    ],
+    "gender": "M"
+  }
+}
